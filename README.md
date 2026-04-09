@@ -66,7 +66,7 @@ Real Estate Market Trends Dashboard
 
 6. Dashboard Preview
 
-"Dashboard" (dashboard.png)
+"Dashboard" (dashboard.png)https://github.com/mamatha2003-A/Real-estate-dashboard/blob/main/Dashboar.png
 
 ---
 
